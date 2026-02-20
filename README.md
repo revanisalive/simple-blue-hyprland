@@ -13,7 +13,7 @@ My personal Hyprland setup on CachyOS. Intended for gaming, entertainment, and l
 <img width="1920" height="1080" alt="20260219_211042" src="https://github.com/user-attachments/assets/b35dce03-6009-4c48-876d-992aecb8d300" />
 
 
-LOOK AND FEEL
+LOOK AND FEEL<br><br>
   theme: catppuccin mocha blue
   cursor: LyraB-cursors, 36
   font: JetBrainsMono NF 12

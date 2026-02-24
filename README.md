@@ -38,3 +38,15 @@ You are welcome to use these configs as a base to build your own Hyprland config
   -color_picker: hyprpicker<br><br>
   -idle_handler: hypridle<br><br>
   -logout: wlogout<br><br>
+
+
+-THANKS
+  -Arch Linux
+  -Cachy OS
+  -Hyprland
+  -KDE
+  -GNOME
+  -Lord Gaben (Valve/Steam)
+  -Simple-hyprland(gaurav23b) https://github.com/gaurav23b/simple-hyprland
+  -the free/open source community
+  -my mom

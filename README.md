@@ -3,11 +3,26 @@ My personal Hyprland setup on CachyOS. Intended for gaming, entertainment, and l
 You are welcome to use these configs as a base to build your own Hyprland configuration. If you do, please share them with me :)
 
 
+
+<img width="1920" height="1080" alt="20260218_233552" src="https://github.com/user-attachments/assets/da61b865-14c5-4263-98a3-83bb4c6cf040" /><br><br>
+
+
+<img width="1920" height="1080" alt="20260219_211237" src="https://github.com/user-attachments/assets/7d9597dc-40a4-491b-a4ac-1ed9dc718fb3" /><br><br>
+
+
+<img width="1920" height="1080" alt="20260219_211509" src="https://github.com/user-attachments/assets/de123fca-2850-433f-8220-834b93c34622" /><br><br>
+
+
+<img width="1920" height="1080" alt="20260219_211042" src="https://github.com/user-attachments/assets/b35dce03-6009-4c48-876d-992aecb8d300" /><br><br>
+
+
+
 -LOOK AND FEEL<br><br>
   -theme: catppuccin mocha blue<br><br>
   -cursor: LyraB-cursors, 36<br><br>
   -font: JetBrainsMono NF 12<br><br>
   -icons: breeze dark<br><br>
+
 
   
 -DEFAULTS<br><br>
@@ -28,17 +43,6 @@ You are welcome to use these configs as a base to build your own Hyprland config
   -idle_handler: hypridle<br><br>
   -logout: wlogout<br><br>
 
-
-<img width="1920" height="1080" alt="20260218_233552" src="https://github.com/user-attachments/assets/da61b865-14c5-4263-98a3-83bb4c6cf040" /><br><br>
-
-
-<img width="1920" height="1080" alt="20260219_211237" src="https://github.com/user-attachments/assets/7d9597dc-40a4-491b-a4ac-1ed9dc718fb3" /><br><br>
-
-
-<img width="1920" height="1080" alt="20260219_211509" src="https://github.com/user-attachments/assets/de123fca-2850-433f-8220-834b93c34622" /><br><br>
-
-
-<img width="1920" height="1080" alt="20260219_211042" src="https://github.com/user-attachments/assets/b35dce03-6009-4c48-876d-992aecb8d300" /><br><br>
 
 
 
